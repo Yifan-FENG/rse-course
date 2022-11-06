@@ -43,13 +43,17 @@ module08_advanced_programming_techniques/test_not_skipped.py
 module08_advanced_programming_techniques/test_skipped.py
 module10_scientific_file_formats/*.csv
 module10_scientific_file_formats/*.db
+module10_scientific_file_formats/*.feather
 module10_scientific_file_formats/*.hdf5
 module10_scientific_file_formats/*.mko
 module10_scientific_file_formats/*.mol
+module10_scientific_file_formats/*.nc
 module10_scientific_file_formats/*.out
+module10_scientific_file_formats/*.parquet
 module10_scientific_file_formats/*.py
 module10_scientific_file_formats/*.tex
 module10_scientific_file_formats/*.ttl
 module10_scientific_file_formats/*.xml
 module10_scientific_file_formats/*.xsd
 module10_scientific_file_formats/*.xsl
+module05_testing_your_code/DiffusionExercise/
